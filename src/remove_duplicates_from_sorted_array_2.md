@@ -31,3 +31,5 @@ to clean it up
 ## Solution 2 
 
 This uses the approach listed in solution 1, but combines them together into a single pass
+
+**[Python Code Implementation](remove_duplicates_from_sorted_array_2.py)**
