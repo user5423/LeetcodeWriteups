@@ -13,6 +13,7 @@ class Solution:
         previousNode = sentinelNode
         currentNode = sentinelNode.next ## head
 
+	for counter in range(1, left):
             previousNode = currentNode
             currentNode = currentNode.next
         

@@ -12,3 +12,4 @@ Problems Solved
 - [Rotate list](src/rotate_list.md) (Medium)
 - [Partition list](src/partition_list.md) (Medium)
 - [Interleaving String](src/interleaving_strings.md) (Medium)
+- [Reverse linked list II](src/reverse_linked_list_2.md) (Medium)
