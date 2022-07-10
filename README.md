@@ -15,3 +15,4 @@ Problems Solved
 - [Reverse linked list II](src/reverse_linked_list_2.md) (Medium)
 - [Merge Sorted Array](src/merge_sorted_array.md) (Easy)
 - [Best time to buy and sell stock](src/best_time_to_buy_and_sell_stock.md) (Easy)
+- [Triangle](src/triangle.md) (Medium)
